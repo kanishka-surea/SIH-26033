@@ -33,7 +33,8 @@ Most digital solutions assume everyone has a smartphone. We don't. A farmer who 
 We'll build a simple website and mobile app using React and Flutter, with Node.js and a database like MongoDB behind them. For farmers without smartphones, a voice-based helpline (IVR) will work in regional languages. Payments will go through UPI or bank transfer, and each village center will need just a computer or tablet and a digital weighing scale.
 A farmer registers by calling, visiting a center, or using the app, and tells us what he has and how much. He brings the produce to the nearest center, where it is weighed and checked in front of him. Buyers place orders, and the produce is delivered or picked up. Once the sale is done, the payment goes directly to the farmer
 
-https://claude.ai/code/artifact/88a6c61d-cc85-4aa3-a399-9d8d05d50575
+<img width="1080" height="646" alt="work flow" src="https://github.com/user-attachments/assets/27ef3ea7-a583-4c9b-8698-91a612fd73fa" />
+
 ## Feasibility and Viability
 The idea doesn't need expensive or new technology. Mobile phones and UPI are already part of everyday life in many villages. We can start small with a pilot in one district, learn from it, and grow step by step.
 There are challenges. Not every farmer is comfortable with technology, vegetables spoil quickly if delayed, existing middlemen may resist the change, and running centers and a helpline costs money. We'll handle this by providing helpline support and trained local people at each center, using fast collection and nearby delivery to keep produce fresh, working with farmer groups to build trust, and covering costs with a small service fee of around 3-5%, much less than what middlemen take.
